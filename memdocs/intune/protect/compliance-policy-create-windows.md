@@ -179,7 +179,7 @@ Applies only to co-managed devices running Windows 10/11. Intune-only devices re
 ### Encryption
 
 - **Encryption of data storage on a device**:  
-  This setting applies to all drives on a device.
+  This setting applies to OS drives on a device.
   - **Not configured** (*default*)
   - **Require** - Use *Require* to encrypt data storage on your devices.
   
