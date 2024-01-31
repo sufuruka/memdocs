@@ -111,8 +111,6 @@ The below apps support the core Intune App Protection Policy settings.
 |Field Service (Dynamics 365)|[iOS](https://apps.apple.com/app/field-service-dynamics-365/id1485579247?ls=1)|✔|No settings|
 |Microsoft 365 Admin|[Android](https://play.google.com/store/apps/details?id=com.ms.office365admin)|✔|No settings|
 |Microsoft 365 Admin|[iOS](https://apps.apple.com/app/microsoft-365-admin/id761397963)|✔|No settings|
-|Microsoft Azure Information Protection Viewer|[Android](https://play.google.com/store/apps/details?id=com.microsoft.ipviewer)|✔|No settings|
-|Microsoft Azure Information Protection Viewer|[iOS](https://apps.apple.com/us/app/rms-sharing/id689516635)|✔|No settings|
 |Microsoft Dynamics CRM|[Android](https://play.google.com/store/apps/details?id=com.microsoft.crm.crmphone)|✔|No settings|
 |Microsoft Dynamics CRM|[iOS](https://apps.apple.com/app/microsoft-dynamics-crm/id678800460)|✔|No settings|
 |Microsoft PowerApps|[Android](https://play.google.com/store/apps/details?id=com.microsoft.msapps)|✔|No settings|
