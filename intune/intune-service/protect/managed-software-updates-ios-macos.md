@@ -230,6 +230,7 @@ Previously in MDM, these settings were spread across multiple payloads such as R
 
 > [!NOTE]
 > As of August 2024, it's recommended to use the DDM-based Software Update Settings configuration to manage update settings such as deferrals.
+> Please note that these configurations require macOS 15 or later.
 
 When you configure DDM software updates, you might want to hide updates from users for a specified time period. To hide the updates, use a settings catalog policy that configures an update restriction.
 
